@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class condition {
+public class condition1 {
 
     public static void main(String arg[]){
         System.out.println("Enter the Age : ");
