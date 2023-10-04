@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class basic_topics {
     public static void main(String[] args){
